@@ -20,3 +20,6 @@ Použité technologie a metody:
 - os modul – pro kontrolu existence a velikosti souboru
 - Listbox + Scrollbar pro zobrazení více záznamů s možností rolování
 - Použití try/except pro ošetření chyb při práci se soubory
+
+Ukázka:
+![Obrázek](images/Vypsání-detailu-zvířete.png)
