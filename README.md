@@ -22,4 +22,6 @@ Použité technologie a metody:
 - Použití try/except pro ošetření chyb při práci se soubory
 
 Ukázka:
-![Obrázek](images/Uvodni-okno.png)
+![Obrázek](images/Uvodni-okno.png) 
+![Obrázek](images/Přidat-tele.png)
+![Obrázek](images/Upravit-záznam.png )
