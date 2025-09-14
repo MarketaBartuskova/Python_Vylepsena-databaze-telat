@@ -1,6 +1,6 @@
 # Vylepšená databáze telat
 
-Python aplikace s Tkinterem slouží jako databáze telat.
+Projekt je jednoduchá desktopová aplikace sloužící jako databáze telat.
 
 ---
 
