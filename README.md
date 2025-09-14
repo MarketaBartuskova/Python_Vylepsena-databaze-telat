@@ -31,7 +31,7 @@ Použité technologie a metody:
 
 ---
 
-***Ukázka:
+Ukázka aplikace:
 
 [Úvodní okno](images/foto1.png) 
 
