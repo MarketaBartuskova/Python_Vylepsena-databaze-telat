@@ -5,8 +5,11 @@ Python aplikace s Tkinterem slouží jako databáze telat.
 ---
 
 Součástí repozitáře je:
-- ikona krávy (ikona_krava.ico), která je použita jako ikona okna aplikace
-- ukázkový soubor (telata.csv), který aplikace sama vytváří a do kterého ukládá data
+- 'main.py' – hlavní program aplikace  
+- 'telata.csv' – soubor s uloženými daty (tabulka telat)  
+- 'ikona_krava.ico' – ikona aplikace  
+- `images/` – složka se screenshoty aplikace  
+
 
 ---
 
@@ -16,6 +19,7 @@ Funkce:
 - Smazání zvířete z databáze
 - Zobrazení všech zvířat a detailní zobrazení se vypisuje automaticky v úvodním okně
 - Automatické ukládání dat do telata.csv, soubor se sám vytvoří
+- Jednoduché grafické rozhraní (Tkinter)
 
 ---
 
