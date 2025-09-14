@@ -34,8 +34,8 @@ Projekt je jednoduchá desktopová aplikace sloužící jako databáze telat.
 
 ***Ukázka aplikace:***
 
-[Úvodní okno](images/foto1.png) 
+[Úvodní okno](images/Uvodni_okno.png) 
 
-[Přidat zvíře](images/foto2.png)
+[Přidat zvíře](images/Pridat_zvire.png)
 
-[Upravit zvíře](images/foto3.png)
+[Upravit zvíře](images/Upravit_zvire.png)
