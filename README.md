@@ -29,6 +29,7 @@ Použité technologie a metody:
 ---
 
 Ukázka:
+[Úvodní okno](screenshots/foto1.png)  
 Úvodní okno
 ![Obrázek](images/Uvodni-okno.png) 
 Přidat zvíře
