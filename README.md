@@ -4,7 +4,7 @@ Projekt je jednoduchá desktopová aplikace sloužící jako databáze telat.
 
 ---
 
-Součástí repozitáře je:
+***Součástí repozitáře je:***
 - `main.py` – hlavní program aplikace  
 - `telata.csv` – soubor s uloženými daty (tabulka telat)  
 - `ikona_krava.ico` – ikona aplikace  
@@ -12,7 +12,7 @@ Součástí repozitáře je:
 
 ---
 
-Funkce:
+***Funkce:***
 - Přidání nového telete
 - Úprava existujícího záznamu
 - Smazání zvířete z databáze
@@ -22,7 +22,7 @@ Funkce:
 
 ---
 
-Použité technologie a metody:
+***Použité technologie a metody:***
 - Tkinter – pro tvorbu GUI (okna, tlačítka, vstupní pole, seznam)
 - csv modul – pro práci se soubory CSV (čtení, zápis, přepis dat)
 - os modul – pro kontrolu existence a velikosti souboru
@@ -31,7 +31,7 @@ Použité technologie a metody:
 
 ---
 
-Ukázka aplikace:
+***Ukázka aplikace:***
 
 [Úvodní okno](images/foto1.png) 
 
