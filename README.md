@@ -30,5 +30,5 @@ Použité technologie a metody:
 
 Ukázka:
 [Úvodní okno](images/foto1.png)  
-![Obrázek](images/foto2.png)
-![Obrázek](images/foto3.png )
+[Přidat zvíře](images/foto2.png)
+[Upravit zvíře](images/foto3.png )
