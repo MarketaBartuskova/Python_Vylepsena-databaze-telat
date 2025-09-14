@@ -5,11 +5,10 @@ Python aplikace s Tkinterem slouží jako databáze telat.
 ---
 
 Součástí repozitáře je:
-- 'main.py' – hlavní program aplikace  
-- 'telata.csv' – soubor s uloženými daty (tabulka telat)  
-- 'ikona_krava.ico' – ikona aplikace  
+- `main.py` – hlavní program aplikace  
+- `telata.csv` – soubor s uloženými daty (tabulka telat)  
+- `ikona_krava.ico` – ikona aplikace  
 - `images/` – složka se screenshoty aplikace  
-
 
 ---
 
@@ -32,7 +31,7 @@ Použité technologie a metody:
 
 ---
 
-Ukázka:
+***Ukázka:
 
 [Úvodní okno](images/foto1.png) 
 
