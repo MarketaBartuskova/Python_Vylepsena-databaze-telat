@@ -5,6 +5,7 @@ Projekt je jednoduchá desktopová aplikace sloužící jako databáze telat.
 ---
 
 ***Součástí repozitáře je:***
+- `README.md` – popis projektu, dokumentace
 - `main.py` – hlavní program aplikace  
 - `telata.csv` – soubor s uloženými daty (tabulka telat)  
 - `ikona_krava.ico` – ikona aplikace  
