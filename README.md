@@ -29,10 +29,6 @@ Použité technologie a metody:
 ---
 
 Ukázka:
-[Úvodní okno](screenshots/foto1.png)  
-Úvodní okno
-![Obrázek](images/Uvodni-okno.png) 
-Přidat zvíře
-![Obrázek](images/Přidat-tele.png)
-Upravit zvíře
-![Obrázek](images/Upravit-záznam.png )
+[Úvodní okno](images/foto1.png)  
+![Obrázek](images/foto2.png)
+![Obrázek](images/foto3.png )
